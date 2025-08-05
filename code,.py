@@ -1,5 +1,4 @@
-# topic array 
-# project 1 -- Student Marks Analyzer
+
 def input_marks():
     n=int(input("Enter total number of students: "))
     marks=[]
